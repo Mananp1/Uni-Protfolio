@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+/*.ServiceBanner_servicesbanner___NgP9 {*/
+/*    padding: 140px 45px 60px;*/
+/*}*/
+.navbar li>a:hover{
+    text-decoration: #0a53be underline solid;
+}
+
+.first-section{
+    padding: 150px 45px 55px;
+}
+.second-section{
+    padding: 140px 45px 55px;
+}
+h1{
+    padding: 70px 0 10px;
+    font-size: 5em !important;
+}
+h1 > span {
+    color: #0a53be;
+}
+#home img{
+    display: block;
+    margin: 0 auto;
+    width: 60%;
+    border-radius: 50%;
+}
+#about img{
+    display: block;
+    margin: 0 auto;
+    width: 60%;
+    border-radius: 5%;
+}
+h2{
+    text-decoration: #0a53be underline solid;
+    font-size: 45px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+p{
+    margin:0 auto;
+    font-size: 20px;
+}
+h3{
+    padding-top: 100px;
+}
+
+#skills ul {
+    display: inline-block;
+    padding-left: 0;
+    text-align: left;
+}
+#skills li{
+    color: #0a53be;
+    list-style: square;
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+li>span{
+    color: #1a1e21;
+}
